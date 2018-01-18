@@ -3,6 +3,6 @@ var playlist = {
   ArRahman: 'Jai Ho', 
   ArjitSingh: 'Sun zara'}
   
-function updatePlaylist (obj, targetObject,updatesObject){
+function updatePlaylist (targetObject,updatesObject){
   return Object.assign({},targetObject,updatesObject)
 }
