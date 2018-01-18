@@ -3,6 +3,7 @@ var playlist = {
   ArRahman: 'Jai Ho', 
   ArjitSingh: 'Sun zara',
   PhilOchs : "My Bloody Valentine"
+  PhilOchs : "Slowdive"
 }
   
 function updatePlaylist (playlist, artistName,songTitle){
