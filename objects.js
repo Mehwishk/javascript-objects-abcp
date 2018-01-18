@@ -1,6 +1,6 @@
 var playlist = {
   SonuNigam:'Tuu', 
-  A.R.Rahman: 'Jai Ho', 
+  ArRahman: 'Jai Ho', 
   ArjitSingh: 'Sun zara'}
   
 function updatePlaylist (obj, artist, song){
