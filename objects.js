@@ -1,1 +1,1 @@
-var playlist = { Sonu Nigam:"Tuu", A.R.Rahman:"Jai Ho", Arjit Singh"Sun zara"
+var playlist = { Sonu Nigam:"Tuu", A.R.Rahman:"Jai Ho", Arjit Singh: "Sun zara"}
