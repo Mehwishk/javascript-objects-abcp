@@ -2,8 +2,8 @@ var playlist = {
   SonuNigam:'Tuu', 
   ArRahman: 'Jai Ho', 
   ArjitSingh: 'Sun zara',
-  PhilOchs : "My Bloody Valentine"
-  PhilOchs : "Slowdive"
+  PhilOchs : "My Bloody Valentine",
+  Ricky : "Slowdive"
 }
   
 function updatePlaylist (playlist, artistName,songTitle){
