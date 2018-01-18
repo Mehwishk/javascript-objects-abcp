@@ -5,8 +5,8 @@ var playlist = {
   PhilOchs : "My Bloody Valentine"
 }
   
-function updatePlaylist (){
-  return Object.assign({},targetObject,updatesObject)
+function updatePlaylist (playlist, artistName,songTitle){
+  return Object.assign({},playlist, artistName,songTitlel)
 }
 function removeFromPlaylist(playlist, artistName){
   delete playlist.artistName;
